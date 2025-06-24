@@ -16,7 +16,7 @@ Foi uma jornada prática de lógica, estrutura de dados, funções e manipulaç�
 
 🌐 Clonando repositorio
 ```bash
-git clone https://github.com/LukkaHoffmann/Atividades-Codifica-2
+git clone https://github.com/LukkaHoffmann/atividades-codifica-2
 ```
 ⚙️ instalando dependencias
 ```bash
