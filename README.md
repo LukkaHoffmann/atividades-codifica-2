@@ -12,8 +12,6 @@ Neste projeto exploramos conceitos fundamentais e avançados da programação us
 📈 Agrupamento de vendas por cliente
 🔄 Conversão entre objetos e arrays de pares
 ```
-Foi uma jornada prática de lógica, estrutura de dados, funções e manipulação de objetos e arrays, tudo com entrada interativa direto do terminal! 💬🖥️
-
 🌐 Clonando repositorio
 ```bash
 git clone https://github.com/LukkaHoffmann/atividades-codifica-2
